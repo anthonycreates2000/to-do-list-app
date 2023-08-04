@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">KeepoApp</string>
+    <string name="footer">© 2020 by Mobile Team</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="make_stalking_easier">Make stalking easier</string>
+    <string name="title_activity_detail_to_do">DetailToDoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="no_data">No Data</string>
+    <string name="field_text_not_empty">Text field cannot be empty</string>
+    <string name="checkbox_no_select_error">You must choose either to search by user, todos, or both.</string>
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+    <string name="logout_confirmation">Are you sure want to logout?</string>
+    <string name="error">Error</string>
+    <string name="last_edited">Last Edited : </string>
+    <string name="result_for">Result for </string>
+    <string name="search_todo">Search Todo...</string>
+    <string name="search_user">Search User...</string>
+    <string name="visible_todo">Your todo will be visible to others</string>
+    <string name="items">" item(s)"</string>
+    <string name="my_todo">My Todo</string>
+    <string name="search_todo_button">Search Todo</string>
+    <string name="search_user_button">Search User</string>
+    <string name="profile">Profile</string>
+    <string name="here_all_your_todos">Here all your todos!</string>
+    <string name="by_user">by user</string>
+    <string name="by_todo">by todo</string>
+    <string name="detail_todo">Detail Todo</string>
+    <string name="last_edited_no_colon">Last Edited</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="username_password_notify">Please input username and password</string>
+    <string name="logout">Logout</string>
+    <string name="exceeded_length">Your description exceeded the maximum words</string>
+    <string name="cannot_empty_string">Text field cannot be empty</string>
+</resources>
